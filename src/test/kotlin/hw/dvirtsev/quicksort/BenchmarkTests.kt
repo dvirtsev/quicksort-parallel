@@ -19,6 +19,7 @@ class BenchmarkTests {
         100_000,
         1_000_000,
         10_000_000,
+        100_000_000,
     )
 
     @ParameterizedTest(name = "array size = {0}")
